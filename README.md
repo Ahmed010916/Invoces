@@ -19,9 +19,9 @@ To View The Project :
 To support the project and to keep it going, paypal Account email Ahmedpaypl@gmail.com 
 
 
-## Next updates
+## latest updates
 
 - Dashboard ui Card
-- export to excel in Reports
+- export invoces to excel, PDF
 - And more 
 # laravel_invoces
