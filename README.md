@@ -11,7 +11,7 @@ To View The Project :
 
 ## about
 
--- This Project is updated every week
+-- This Project is used Laravel 8.* ;
 
 
 ## Support
